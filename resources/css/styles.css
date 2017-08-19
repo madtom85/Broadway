@@ -1,0 +1,44 @@
+html{
+	font-family: Helvetica;
+	text-align: center;
+}
+
+h1{
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+
+ul{
+	font-size: 18px;
+	list-style-type: none;
+}
+
+li a {
+	color: white;
+}
+
+h2{
+	font-size: 32px;
+	font-weight: bold;
+}
+h3{
+	font-size: 23px;
+}
+
+p{
+	font-size: 14px;
+}
+
+footer p{
+	font-size: 11px;
+	text-align: left;
+	background-color: dimgray;
+	color: white;
+}
+
+footer a{
+	color: white;
+	font-size: 18px;
+}
